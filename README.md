@@ -1,6 +1,6 @@
 # CompositionalCVLayout <img src="https://github.com/SezginCiftci/CompositionalCVLayout/blob/main/CompositionalCVLayout/square-layout.png" width="40">
 
-<img src="https://github.com/SezginCiftci/CompositionalCVLayout/blob/main/CompositionalCVLayout/CompositionalLayout.gif" width="350">
+<img src="https://github.com/SezginCiftci/CompositionalCVLayout/blob/main/CompositionalCVLayout/CompositonalCVLayout.gif" width="350">
 
 
 ## ENG
